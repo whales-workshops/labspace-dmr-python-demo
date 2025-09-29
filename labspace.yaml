@@ -1,0 +1,12 @@
+title: Docker Model Runner & Python Demo
+description: Play with (very) Small Language Models. (🚧 work in progress)
+
+sections:
+  - title: Introduction
+    contentPath: .labspace/01-introduction.md
+  - title: Simple Completion with DMR & litellm
+    contentPath: .labspace/02-simple-completion.md
+  - title: Stream Completion with DMR & litellm
+    contentPath: .labspace/03-stream-completion.md
+
+
