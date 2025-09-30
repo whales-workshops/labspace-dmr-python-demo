@@ -8,7 +8,6 @@
       "anseki.vscode-color",
       "jeronimoekerdt.color-picker-universal",
       "wayou.vscode-todo-highlight",
-      "bierner.markdown-mermaid",
-      "ms-python.vscode-pylance"
+      "bierner.markdown-mermaid"
     ]
 }
