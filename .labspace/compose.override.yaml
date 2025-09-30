@@ -7,7 +7,7 @@ services:
 
   workspace:
    # Override the default image if desired
-    image: philippecharriere494/labspace-workspace-python:3.11_0.0.1
+    image: philippecharriere494/labspace-workspace-python:3.11_0.0.2
 
   #   # Override the default ports to publish additional ports you may need
   #   # More details - https://github.com/dockersamples/labspace-infra/blob/main/docs/configuration.md#overriding-the-workspace-ports

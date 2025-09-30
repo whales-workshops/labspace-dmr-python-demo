@@ -9,6 +9,6 @@
       "jeronimoekerdt.color-picker-universal",
       "wayou.vscode-todo-highlight",
       "bierner.markdown-mermaid",
-      "ms-python.python",
+      "ms-python.vscode-pylance"
     ]
 }
